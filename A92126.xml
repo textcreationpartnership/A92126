@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of disbanding the supernumerary forces in the several counties of this kingdom, and the dominion of Wales, amounting to twenty thousand horse and foot; to the great ease of the kingdom, and taking off free-quarter from the subject. Published for satisfaction of the three kingdoms.</title>
+            <author>Rushworth, John, 1612?-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92126</idno>
+            <idno type="STC">Wing R2335</idno>
+            <idno type="STC">Thomason E429_10</idno>
+            <idno type="STC">ESTC R204623</idno>
+            <idno type="EEBO-CITATION">99864088</idno>
+            <idno type="PROQUEST">99864088</idno>
+            <idno type="VID">161486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161486)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of disbanding the supernumerary forces in the several counties of this kingdom, and the dominion of Wales, amounting to twenty thousand horse and foot; to the great ease of the kingdom, and taking off free-quarter from the subject. Published for satisfaction of the three kingdoms.</title>
+                  <author>Rushworth, John, 1612?-1690.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 28. 1647. [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A2r signed: J.R. [i.e. John Rushworth].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161486:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION Of Disbanding <hi>The Supernumerary Forces</hi> IN The ſeveral Counties of this Kingdom, and the Dominion of Wales, Amounting to <hi>Twenty thouſand Horſe and Foot;</hi>
+            </p>
+            <p>TO The great eaſe of the Kingdom, and taking off Free-quarter from the Subject.</p>
+            <p>Publiſhed for Satisfaction of the Three Kingdoms.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Laurence Chapman,</hi> Feb. 28. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:161486:2"/>
+                  <pb n="3" facs="tcp:161486:2"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>BEing a little diligent this week to imploy my endeavors to know the truth of disbanding the Supernumerary Forces of this Kingdom, who as I am informed, are near upon Twenty thou<g ref="char:EOLhyphen"/>ſand Horſe and Foot, I addreſſed my ſelf to ſome Agents and others, imployed in the ſaid Service; and I have conferred with divers Gentlemen that received Letters from ſeveral parts of this Kingdom, by the ſeveral Poſts of this week, and of the laſt week; Out of all which I have collected the particulars enſuing, whereby I finde, That the induſtry and care of the Com<g ref="char:EOLhyphen"/>mittee of the Army hath been very great, not onely in procuring the ſpeedy bringing in of the Aſſeſſments to pay the two Moneths pay for the disbanding of ſo great Forces in ſo ſhort a time, and for eaſing the Kingdom of all Free quarter taken by the ſaid Supernumerary Forces of Horſe and Foot both in <hi>England</hi> and <hi>Wales,</hi> but alſo have paid the reſt of the Forces their conſtant pay ever ſince the <hi>15.</hi> of <hi>January</hi> laſt; which I have written, worthy Sir, for your ſatisfaction, and ſhall ever reſt,</p>
+                  <closer>
+                     <dateline>
+                        <date>22 Febr. 1647.</date>
+                     </dateline>
+                     <signed>Your Friend and Servant, <hi>J. R.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="4" facs="tcp:161486:3"/>
+THe Letters this week by the Poſt, brings good News concerning the Disbanding of the Supernumerary Forces in ſeveral parts of <hi>England</hi> and <hi>Wales;</hi> who for a very great ſpace of time have lyen in ſeveral counties upon Free<g ref="char:EOLhyphen"/>quarter; and in particular the Letters out of So<g ref="char:EOLhyphen"/>merſetſhire certifie, that there is disbanded in that county all that Regiment of Foot under the com<g ref="char:EOLhyphen"/>mand of Colonel <hi>William Herbert,</hi> being Five hun<g ref="char:EOLhyphen"/>dred; and alſo one Troop of Horſe conſiſting of about Seventy Horſe. There is likewiſe disbanded in Gloceſterſhire, and in the city of Gloceſter, Co<g ref="char:EOLhyphen"/>lonel <hi>Morgans</hi> Regiment of Foot, conſiſting of Nine Companies, with Officers and Soldiers; and another Regiment of Foot of Col: <hi>Kempſon</hi>'s, both Officers and Soldiers; and alſo one Troop of Horſe which was raiſed by the Committee of Gloceſter; with th'other Supernumerary Forces reſiding in that county, to the very great eaſe and comfort of thoſe parts, who have, during all the late Wars, lyen under very great burthens and Free quarter.</p>
+            <p>The Letters alſo from Herefordſhire do certifie, That the Commiſſioners there have by the bleſ<g ref="char:EOLhyphen"/>ſing of God, disbanded all Col: <hi>Humphreys</hi> Regi<g ref="char:EOLhyphen"/>ment of Foot, who were 1000. in number at the leaſt; and that 300. private Soldiers of that Regi<g ref="char:EOLhyphen"/>ment, with ſome of their Officers, have liſted them<g ref="char:EOLhyphen"/>ſelves
+<pb n="5" facs="tcp:161486:3"/>to ſerve for the King of <hi>France;</hi> and are up<g ref="char:EOLhyphen"/>on their march to be tranſported out of this King<g ref="char:EOLhyphen"/>dom into <hi>France:</hi> And now in Herefordſhire they are upon disbanding Col: <hi>Hoptons</hi> Regiment of Horſe, which are near 500. good horſe, and do all of them moſt willingly ſubmit to their dibanding, according to the Ordinances of Parliament in that behalf; and the ſtrong Caſtle of Hereford is Ga<g ref="char:EOLhyphen"/>riſoned by three Companies of Foot of Sir <hi>William Conſtables</hi> Regiment: ſo that that county, who had ſo great Forces in the bowels thereof upon Free<g ref="char:EOLhyphen"/>quarter, by this means will enjoy a breathing ſpace from thoſe great inconveniencies which formerly they miſerably languiſhed under: That the two Regiments of Foot in Wilts and Worceſterſhire are disbanding, their Accompts being ſtated, and ſent down with the Debenters of all Arrears due to the Officers and Soldiers of the ſaid ſeveral Re<g ref="char:EOLhyphen"/>giments, and their two moneths pay is ready in the counties to be paid unto them; ſo that it is no way doubted, but that they will be all of them this week disbanded; together with the remainder of ſeveral Troops of Horſe which are yet not diſ<g ref="char:EOLhyphen"/>banded: but there hath lately been disbanded there<g ref="char:EOLhyphen"/>abouts, Col: <hi>Cooks</hi> Regiment of Horſe, which were at firſt providing for <hi>Ireland,</hi> but now ſubmitted to the Ordinances of Parliament for disbanding, who will no doubt be conſidered according to his me<g ref="char:EOLhyphen"/>rit by the Parliament, in ſome other honorable imployment or ſervice for the Commonwealth.</p>
+            <p>All Letters out of the Northern parts do certi<g ref="char:EOLhyphen"/>fie, The disbanding of all the Horſe and Foot
+<pb n="6" facs="tcp:161486:4"/>Soldiers in Yorkſhire, except the Foot in the town of Hull, and four Troops of Horſe which were alſo in disbanding the laſt week, and ſo before this without queſtion disbanded: By the happy diſ<g ref="char:EOLhyphen"/>patch of this buſineſs, the county of York and other places are eaſed of Free quarter: And in effecting this work of disbanding theſe Northern Forces, Major Gen. <hi>Lambert</hi> hath given ſufficient teſtimony of his fidelity to the Parliament, and good affection to the Countrey. And from Dur<g ref="char:EOLhyphen"/>ham the Letters impart, The disbanding of Major <hi>Sanderſons</hi> Troop of Horſe, and Captain <hi>Lilburns</hi> Troop of Horſe, and Captain <hi>Blaxtons</hi> Company of Foot, and Captain <hi>Grays</hi> Company of Foot: The disbanding money of thoſe two Troops of Horſe, and two Companies of Foot which they received, was about Eight hundred pounds. The other particular Forces of Horſe and Foot in the reſt of the ſeveral Northern counties, are not come up this week by the Poſt, but are expected by the next: But the Letters of this week dated this in<g ref="char:EOLhyphen"/>ſtant February from Durham, impart, That divers Papiſts are ſaid, by good hands, to go with ſome of the Scots that paſſed by into <hi>Scotland,</hi> and ſome of them (ſeeing the Parliaments Soldiers) told them, They muſt now alter their opinion, and be no longer for the Parliament, but for the King: Whereunto ſome of the Soldiers replied, How could they be for the King, when they had ſold him away.</p>
+            <p>And as concerning the Supernumerary Forces in Northwales under the Command of Major Gene<g ref="char:EOLhyphen"/>ral
+<pb n="7" facs="tcp:161486:4"/>
+               <hi>Mitton,</hi> conſiſting for the moſt part of ſeveral Troops of Horſe, they all expreſs their willingneſs to ſubmit to the ſeveral Ordinances of Parliament; and their disbanding money is ſent down, with the ſeveral Warrants for the disbanding of them: So that we doubt not but by the next, the ſame will be actually performed. The Supernumerary forces in Cheſhire, Lancaſter, and the reſt of the counties in that part of the Kingdom; and of Staffordſhire, Notingham, Derby, Norfolk, Northampton, and Warwickſhire, where many Companies of Foot, and ſome Troops of Horſe that were maintained by the ſeveral counties are to be disbanded, of whom part is finiſhed, and Warrants and money for the reſt is provided and diſpatched unto the Commiſſioners in the ſeveral counties; whereby in thoſe and all other counties, the Supernumerary Forces are and will be disbanded, and the whole Kingdom eaſed of all Free quarter, which was too great a burthen to be long endured; and therefore the Parliament took the ſame into their ſerious thoughts, and hath hitherto had a happy progreſs, and their care will be to go on to do good unto the Kingdom, and to eaſe them in few moneths much more then they have done, in caſe new deſigns and deviliſh plots do not again break out to hinder their good intentions and reſolutions.</p>
+            <p>I hear, that hitherto but little hath been done for the disbanding of the Supernumerary Forces in Southwales, under the Command of Major Ge<g ref="char:EOLhyphen"/>neral <hi>Laughorn,</hi> but the moneys are there provided, and the Warrants ſent down, but Commiſsioners
+<pb n="8" facs="tcp:161486:5"/>were wanting to perform that ſervice; which the Parliament hath now ſupplied, by authorizing Baronet <hi>Richard Phillips,</hi> Col: <hi>Horton,</hi> Col: <hi>Edward; Prichard,</hi> Col: <hi>Tho: Carn,</hi> Col: <hi>Jones,</hi> Col: <hi>Lewis,</hi> and divers other Gentlemen of the ſeveral Coun<g ref="char:EOLhyphen"/>ties, ſpeedily to disband the ſaid Forces, and to take all their Accompts, and to pay them two moneths pay, according to former Inſtructions and Ordinances of Parliament made in that behalf; whereby thoſe counties will finde great eaſe and contentment. I remember nothing more at preſent, but that the Forces in Plymouth remain undiſ<g ref="char:EOLhyphen"/>banded, although they were firſt taken care for; which, as I am informed, hath hapned by reaſon the ſix moneths Aſſeſſments of the county of De<g ref="char:EOLhyphen"/>vonſhire hath been much retarded, both in aſſeſ<g ref="char:EOLhyphen"/>ſing, collecting and paying it into the Treaſurer Ge<g ref="char:EOLhyphen"/>neral of that county; whether by the default of the Gentlemen of that county truſted therein, or backwardneſs in the Inhabitants to pay the ſame, or what other obſtruction hath hapned, is unknown to me, but I hope all will end well, which God grant, that this Kingdom may once again enjoy the bleſſed fruits of truth and peace.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>25. Feb. 1647.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gilbert Mabbot.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
